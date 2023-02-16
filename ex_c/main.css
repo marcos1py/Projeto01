@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    background-color: #7d0f7c;
+}
+
+header h1{
+    color: #f8c9f8;
+    display: flex;
+}
+
+section h2 {
+    color: #7d0f7c;
+}
+
+.liks , .liks a{
+    text-align: right;
+    justify-content: space-between;
+    color: #f8c9f8;
+}
+
+.sobreNos {
+    display:flex;
+}
+
+.imagens1 {
+    margin-right: 20px;
+    text-align: left;
+}
+
+.sobreNos {
+    background-color: #9f349d;
+}
+
+.rodape {
+    background-color: #a84da6;
+}
+
+h2 {
+    margin-left: 30px;
+}
+.forn1{
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.Endereço {
+    text-align: right;
+}
+
+.input {
+    text-align: left;
+}
